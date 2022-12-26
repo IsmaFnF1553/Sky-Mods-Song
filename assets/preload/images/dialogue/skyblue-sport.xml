@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skyblue-sport.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sblue bstand0000" x="2" y="2" width="459" height="665"/>
+	<SubTexture name="sblue bstand0001" x="2" y="2" width="459" height="665"/>
+	<SubTexture name="sblue bstand0002" x="469" y="2" width="459" height="665"/>
+	<SubTexture name="sblue bstand0003" x="469" y="2" width="459" height="665"/>
+	<SubTexture name="sblue btalk0000" x="936" y="2" width="467" height="677"/>
+	<SubTexture name="sblue btalk0001" x="936" y="2" width="467" height="677"/>
+	<SubTexture name="sblue btalk0002" x="1411" y="2" width="467" height="677"/>
+	<SubTexture name="sblue btalk0003" x="1411" y="2" width="467" height="677"/>
+	<SubTexture name="sblue btalk0004" x="1886" y="2" width="467" height="677"/>
+	<SubTexture name="sblue btalk0005" x="1886" y="2" width="467" height="677"/>
+	<SubTexture name="sblue confusetalk0000" x="2361" y="2" width="450" height="673"/>
+	<SubTexture name="sblue confusetalk0001" x="2361" y="2" width="450" height="673"/>
+	<SubTexture name="sblue confusetalk0002" x="2819" y="2" width="450" height="673"/>
+	<SubTexture name="sblue confusetalk0003" x="2819" y="2" width="450" height="673"/>
+	<SubTexture name="sblue confusetalk0004" x="3277" y="2" width="450" height="673"/>
+	<SubTexture name="sblue confusetalk0005" x="3277" y="2" width="450" height="673"/>
+	<SubTexture name="sblue confuzzled0000" x="2" y="687" width="442" height="653"/>
+	<SubTexture name="sblue confuzzled0001" x="2" y="687" width="442" height="653"/>
+	<SubTexture name="sblue confuzzled0002" x="452" y="687" width="442" height="653"/>
+	<SubTexture name="sblue confuzzled0003" x="452" y="687" width="442" height="653"/>
+	<SubTexture name="sblue gasp0000" x="902" y="687" width="440" height="665"/>
+	<SubTexture name="sblue gasp0001" x="1350" y="687" width="440" height="665"/>
+	<SubTexture name="sblue gasp0002" x="1798" y="687" width="440" height="665"/>
+	<SubTexture name="sblue gasp0003" x="2246" y="687" width="440" height="665"/>
+	<SubTexture name="sblue shocktalk0000" x="2694" y="687" width="450" height="679"/>
+	<SubTexture name="sblue shocktalk0001" x="3152" y="687" width="450" height="679"/>
+	<SubTexture name="sblue shocktalk0002" x="3610" y="687" width="450" height="679"/>
+	<SubTexture name="sblue shocktalk0003" x="2" y="1374" width="450" height="679"/>
+	<SubTexture name="sblue shocktalk0004" x="460" y="1374" width="450" height="679"/>
+	<SubTexture name="sblue shocktalk0005" x="918" y="1374" width="450" height="679"/>
+</TextureAtlas>

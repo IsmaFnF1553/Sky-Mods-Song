@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		110,
+		80
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_offsets": [
+				48,
+				162
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				48,
+				150
+			],
+			"loop_name": "sblue shocktalk",
+			"idle_name": "sblue gasp"
+		},
+		{
+			"idle_offsets": [
+				70,
+				130
+			],
+			"anim": "borgr",
+			"loop_offsets": [
+				70,
+				141
+			],
+			"idle_name": "sblue bstand",
+			"loop_name": "sblue btalk"
+		},
+		{
+			"loop_offsets": [
+				54,
+				130
+			],
+			"anim": "eh?",
+			"idle_offsets": [
+				54,
+				112
+			],
+			"loop_name": "sblue confusetalk",
+			"idle_name": "sblue confuzzled"
+		}
+	],
+	"image": "skyblue-sport"
+}

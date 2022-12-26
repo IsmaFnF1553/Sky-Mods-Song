@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ski-sport.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ski downing0000" x="2" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0001" x="2" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0002" x="463" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0003" x="463" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0004" x="2" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0005" x="2" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0006" x="463" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0007" x="463" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0008" x="2" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0009" x="924" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0010" x="1385" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0011" x="1846" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0012" x="1846" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0013" x="2307" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0014" x="2307" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0015" x="1846" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0016" x="1846" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0017" x="2307" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0018" x="2307" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0019" x="2768" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0020" x="2768" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0021" x="3229" y="2" width="453" height="531"/>
+	<SubTexture name="ski downing0022" x="2" y="541" width="453" height="531"/>
+	<SubTexture name="ski downing0023" x="463" y="541" width="453" height="531"/>
+	<SubTexture name="ski downing0024" x="463" y="541" width="453" height="531"/>
+	<SubTexture name="ski downing0025" x="924" y="541" width="453" height="531"/>
+	<SubTexture name="ski downing0026" x="1385" y="541" width="453" height="531"/>
+	<SubTexture name="ski downing0027" x="1385" y="541" width="453" height="531"/>
+	<SubTexture name="ski downing0028" x="924" y="541" width="453" height="531"/>
+	<SubTexture name="ski isdrink0000" x="1846" y="541" width="425" height="525"/>
+	<SubTexture name="ski isdrink0001" x="1846" y="541" width="425" height="525"/>
+	<SubTexture name="ski isdrink0002" x="2279" y="541" width="425" height="525"/>
+	<SubTexture name="ski isdrink0003" x="2279" y="541" width="425" height="525"/>
+	<SubTexture name="ski pumped0000" x="2712" y="541" width="427" height="506"/>
+	<SubTexture name="ski pumped0001" x="2712" y="541" width="427" height="506"/>
+	<SubTexture name="ski pumped0002" x="3147" y="541" width="427" height="506"/>
+	<SubTexture name="ski pumped0003" x="3147" y="541" width="427" height="506"/>
+	<SubTexture name="ski pumptalk0000" x="3582" y="541" width="433" height="522"/>
+	<SubTexture name="ski pumptalk0001" x="3582" y="541" width="433" height="522"/>
+	<SubTexture name="ski pumptalk0002" x="2" y="1080" width="433" height="522"/>
+	<SubTexture name="ski pumptalk0003" x="2" y="1080" width="433" height="522"/>
+	<SubTexture name="ski pumptalk0004" x="443" y="1080" width="433" height="522"/>
+	<SubTexture name="ski pumptalk0005" x="443" y="1080" width="433" height="522"/>
+	<SubTexture name="ski talk0000" x="884" y="1080" width="424" height="508"/>
+	<SubTexture name="ski talk0001" x="884" y="1080" width="424" height="508"/>
+	<SubTexture name="ski talk0002" x="1316" y="1080" width="424" height="508"/>
+	<SubTexture name="ski talk0003" x="1316" y="1080" width="424" height="508"/>
+	<SubTexture name="ski talk0004" x="1748" y="1080" width="424" height="508"/>
+	<SubTexture name="ski talk0005" x="1748" y="1080" width="424" height="508"/>
+	<SubTexture name="ski there0000" x="2180" y="1080" width="422" height="494"/>
+	<SubTexture name="ski there0001" x="2180" y="1080" width="422" height="494"/>
+	<SubTexture name="ski there0002" x="2610" y="1080" width="422" height="494"/>
+	<SubTexture name="ski there0003" x="2610" y="1080" width="422" height="494"/>
+</TextureAtlas>

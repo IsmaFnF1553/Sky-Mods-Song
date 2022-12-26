@@ -1,0 +1,50 @@
+{
+	"position": [
+		80,
+		43
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "ski-sport",
+	"animations": [
+		{
+			"idle_offsets": [
+				-2,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "ski there",
+			"loop_name": "ski talk"
+		},
+		{
+			"idle_offsets": [
+				1,
+				-6
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				4,
+				6
+			],
+			"idle_name": "ski pumped",
+			"loop_name": "ski pumptalk"
+		},
+		{
+			"loop_offsets": [
+				17,
+				21
+			],
+			"anim": "drink",
+			"idle_offsets": [
+				12,
+				17
+			],
+			"loop_name": "ski downing",
+			"idle_name": "ski isdrink"
+		}
+	]
+}

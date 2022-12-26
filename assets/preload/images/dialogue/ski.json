@@ -1,0 +1,50 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "ski",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-2
+			],
+			"loop_offsets": [
+				1,
+				8
+			],
+			"anim": "talk",
+			"idle_name": "ski stand",
+			"loop_name": "ski talk loop"
+		},
+		{
+			"loop_offsets": [
+				53,
+				-8
+			],
+			"anim": "trumpet",
+			"idle_offsets": [
+				48,
+				-3
+			],
+			"loop_name": "ski trumpet",
+			"idle_name": "ski trumpet"
+		},
+		{
+			"loop_name": "ski nervous",
+			"idle_offsets": [
+				0,
+				-5
+			],
+			"idle_name": "ski wha?",
+			"anim": "oop",
+			"loop_offsets": [
+				0,
+				5
+			]
+		}
+	]
+}

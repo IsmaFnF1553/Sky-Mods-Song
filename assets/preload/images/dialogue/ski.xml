@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ski.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ski nervous0000" x="2" y="2" width="308" height="472"/>
+	<SubTexture name="ski nervous0001" x="2" y="2" width="308" height="472"/>
+	<SubTexture name="ski nervous0002" x="318" y="2" width="308" height="472"/>
+	<SubTexture name="ski nervous0003" x="318" y="2" width="308" height="472"/>
+	<SubTexture name="ski nervous0004" x="634" y="2" width="308" height="472"/>
+	<SubTexture name="ski nervous0005" x="634" y="2" width="308" height="472"/>
+	<SubTexture name="ski stand0000" x="950" y="2" width="304" height="460"/>
+	<SubTexture name="ski talk loop0000" x="1262" y="2" width="306" height="472"/>
+	<SubTexture name="ski talk loop0001" x="1262" y="2" width="306" height="472"/>
+	<SubTexture name="ski talk loop0002" x="1576" y="2" width="306" height="472"/>
+	<SubTexture name="ski talk loop0003" x="1576" y="2" width="306" height="472"/>
+	<SubTexture name="ski talk loop0004" x="2" y="482" width="306" height="472"/>
+	<SubTexture name="ski talk loop0005" x="2" y="482" width="306" height="472"/>
+	<SubTexture name="ski trumpet0000" x="316" y="482" width="361" height="460"/>
+	<SubTexture name="ski wha?0000" x="685" y="482" width="304" height="460"/>
+</TextureAtlas>
