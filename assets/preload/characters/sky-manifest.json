@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SKY M ID"
+		},
+		{
+			"offsets": [
+				80,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SKY M LEFT"
+		},
+		{
+			"offsets": [
+				-30,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SKY M DOWN"
+		},
+		{
+			"offsets": [
+				26,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SKY M UP"
+		},
+		{
+			"offsets": [
+				12,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SKY M RIGHT"
+		},
+		{
+			"offsets": [
+				5,
+				38
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "SKY M TLOOP"
+		},
+		{
+			"offsets": [
+				110,
+				240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "SKY M SCREAM"
+		},
+		{
+			"offsets": [
+				110,
+				240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "SKY M SCREAM"
+		},
+		{
+			"offsets": [
+				110,
+				240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "SKY M SCREAM"
+		},
+		{
+			"offsets": [
+				110,
+				240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "SKY M SCREAM"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				110,
+				240
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "SKY M SCREAM",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sky manifest",
+	"position": [
+		-30,
+		100
+	],
+	"healthicon": "sky_angy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

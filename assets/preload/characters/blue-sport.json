@@ -1,0 +1,149 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "blue idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "blue idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "blue right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "blue left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				64,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "blue up"
+		},
+		{
+			"offsets": [
+				20,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "blue down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				50
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "blue miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				41
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "blue miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				95
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "blue miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				24
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "blue miss down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				131,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "phew",
+			"loop": false,
+			"name": "blue relief"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blue-sport",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "skyblue",
+	"flip_x": true,
+	"healthbar_colors": [
+		132,
+		201,
+		254
+	],
+	"camera_position": [
+		150,
+		-40
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}
