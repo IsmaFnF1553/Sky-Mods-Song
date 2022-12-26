@@ -1,0 +1,31 @@
+{
+	"storyName": "Ski drinks too much coffee",
+	"difficulties": "Hard, Blue",
+	"hideFreeplay": false,
+	"weekBackground": "blue",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Sporty Ski",
+			"skyblue",
+			[
+				106,
+				93,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Ski Sporting"
+}

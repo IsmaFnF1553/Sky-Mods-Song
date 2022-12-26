@@ -1,0 +1,31 @@
+{
+	"storyName": "Ski gets lost in a corn maze",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "fool",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Foolhardy",
+			"zardyMyBeloved",
+			[
+				255,
+				180,
+				35
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Ski Foolhardy"
+}

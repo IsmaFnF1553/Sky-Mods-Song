@@ -1,0 +1,40 @@
+{
+	"storyName": "ski and sky",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "sky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"No Memes",
+			"sky",
+			[
+				146,
+				93,
+				255
+			]
+		],
+		[
+			"Manifest",
+			"sky_angy",
+			[
+				166,
+				0,
+				75
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Sky week"
+}
