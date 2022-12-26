@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ski-cut2.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ski sleep0000" x="2" y="2" width="628" height="702"/>
+	<SubTexture name="ski sleep0001" x="2" y="2" width="628" height="702"/>
+	<SubTexture name="ski sleep0002" x="2" y="2" width="628" height="702"/>
+	<SubTexture name="ski sleep0003" x="2" y="2" width="628" height="702"/>
+	<SubTexture name="ski sleep0004" x="638" y="2" width="628" height="702"/>
+	<SubTexture name="ski sleep0005" x="638" y="2" width="628" height="702"/>
+	<SubTexture name="ski sleep0006" x="638" y="2" width="628" height="702"/>
+	<SubTexture name="ski sleep0007" x="638" y="2" width="628" height="702"/>
+</TextureAtlas>

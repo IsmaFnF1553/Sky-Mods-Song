@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ski-sport.png">
+<SubTexture name="ski coffee down0000" x="417" y="2070" width="435" height="430" frameX="-4" frameY="-11" frameWidth="439" frameHeight="441" />
+<SubTexture name="ski coffee down0001" x="0" y="2070" width="417" height="440" frameX="0" frameY="-1" frameWidth="439" frameHeight="441" />
+<SubTexture name="ski coffee idle0000" x="2092" y="464" width="425" height="463" frameX="-15" frameY="-28" frameWidth="440" frameHeight="494" />
+<SubTexture name="ski coffee left0000" x="775" y="1055" width="481" height="506" frameX="0" frameY="0" frameWidth="483" frameHeight="507" />
+<SubTexture name="ski coffee left0001" x="0" y="1574" width="460" height="496" frameX="-22" frameY="-10" frameWidth="483" frameHeight="507" />
+<SubTexture name="ski coffee right0000" x="851" y="530" width="379" height="513" frameX="-13" frameY="0" frameWidth="392" frameHeight="514" />
+<SubTexture name="ski coffee right0001" x="401" y="1055" width="374" height="509" frameX="0" frameY="-4" frameWidth="392" frameHeight="514" />
+<SubTexture name="ski coffee up0000" x="0" y="0" width="381" height="530" frameX="-12" frameY="0" frameWidth="402" frameHeight="530" />
+<SubTexture name="ski coffee up0001" x="0" y="1055" width="401" height="519" frameX="0" frameY="-9" frameWidth="402" frameHeight="530" />
+<SubTexture name="ski down0000" x="2092" y="1389" width="426" height="451" frameX="0" frameY="-21" frameWidth="426" frameHeight="473" />
+<SubTexture name="ski down0001" x="1665" y="506" width="408" height="473" frameX="-5" frameY="0" frameWidth="426" frameHeight="473" />
+<SubTexture name="ski drink0000" x="381" y="0" width="430" height="527" frameX="0" frameY="0" frameWidth="431" frameHeight="531" />
+<SubTexture name="ski drink0001" x="811" y="0" width="429" height="525" frameX="-1" frameY="-4" frameWidth="431" frameHeight="531" />
+<SubTexture name="ski drink0002" x="0" y="530" width="425" height="525" frameX="-5" frameY="-5" frameWidth="431" frameHeight="531" />
+<SubTexture name="ski drink0003" x="425" y="530" width="426" height="524" frameX="-5" frameY="-6" frameWidth="431" frameHeight="531" />
+<SubTexture name="ski drink0004" x="0" y="530" width="425" height="525" frameX="0" frameY="0" frameWidth="431" frameHeight="531" />
+<SubTexture name="ski idle0000" x="2092" y="927" width="428" height="462" frameX="-12" frameY="-29" frameWidth="440" frameHeight="494" />
+<SubTexture name="ski left0000" x="460" y="1574" width="470" height="487" frameX="0" frameY="0" frameWidth="472" frameHeight="488" />
+<SubTexture name="ski left0001" x="930" y="1574" width="451" height="487" frameX="-21" frameY="0" frameWidth="472" frameHeight="488" />
+<SubTexture name="ski look0000" x="1665" y="979" width="418" height="470" frameX="-7" frameY="-16" frameWidth="425" frameHeight="487" />
+<SubTexture name="ski right0000" x="1381" y="1574" width="509" height="464" frameX="-23" frameY="0" frameWidth="532" frameHeight="466" />
+<SubTexture name="ski right0001" x="2092" y="0" width="502" height="464" frameX="0" frameY="-1" frameWidth="532" frameHeight="466" />
+<SubTexture name="ski uhoh0000" x="1240" y="0" width="425" height="524" frameX="-14" frameY="0" frameWidth="440" frameHeight="525" />
+<SubTexture name="ski up0000" x="1240" y="524" width="411" height="521" frameX="-4" frameY="0" frameWidth="427" frameHeight="521" />
+<SubTexture name="ski up0001" x="1665" y="0" width="427" height="506" frameX="0" frameY="-13" frameWidth="427" frameHeight="521" />
+</TextureAtlas>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sky manifest.png">
+<SubTexture name="SKY M DOWN0000" x="1221" y="1921" width="501" height="446" frameX="-45" frameY="-80" frameWidth="614" frameHeight="534" />
+<SubTexture name="SKY M DOWN0001" x="1699" y="584" width="477" height="464" frameX="-38" frameY="-54" frameWidth="614" frameHeight="534" />
+<SubTexture name="SKY M ID0000" x="0" y="723" width="587" height="614" frameX="0" frameY="-1" frameWidth="588" frameHeight="615" />
+<SubTexture name="SKY M LEFT0000" x="2200" y="584" width="442" height="576" frameX="0" frameY="-13" frameWidth="559" frameHeight="589" />
+<SubTexture name="SKY M LEFT0001" x="2200" y="1160" width="478" height="570" frameX="-28" frameY="-17" frameWidth="559" frameHeight="589" />
+<SubTexture name="SKY M RIGHT0000" x="594" y="1921" width="627" height="550" frameX="-16" frameY="-11" frameWidth="679" frameHeight="565" />
+<SubTexture name="SKY M RIGHT0001" x="0" y="1921" width="594" height="558" frameX="0" frameY="-6" frameWidth="679" frameHeight="565" />
+<SubTexture name="SKY M SCREAM0000" x="0" y="0" width="565" height="723" frameX="-30" frameY="-57" frameWidth="626" frameHeight="782" />
+<SubTexture name="SKY M SCREAM0001" x="565" y="0" width="566" height="714" frameX="-16" frameY="-64" frameWidth="626" frameHeight="782" />
+<SubTexture name="SKY M SCREAM0002" x="1131" y="0" width="568" height="711" frameX="-38" frameY="-70" frameWidth="626" frameHeight="782" />
+<SubTexture name="SKY M TLOOP0000" x="1699" y="0" width="501" height="584" frameX="0" frameY="0" frameWidth="533" frameHeight="584" />
+<SubTexture name="SKY M TLOOP0001" x="0" y="1337" width="504" height="584" frameX="-1" frameY="0" frameWidth="533" frameHeight="584" />
+<SubTexture name="SKY M TLOOP0002" x="504" y="1337" width="507" height="584" frameX="-3" frameY="0" frameWidth="533" frameHeight="584" />
+<SubTexture name="SKY M TLOOP0003" x="1011" y="1337" width="513" height="584" frameX="-5" frameY="0" frameWidth="533" frameHeight="584" />
+<SubTexture name="SKY M TLOOP0004" x="1524" y="1337" width="524" height="584" frameX="-4" frameY="0" frameWidth="533" frameHeight="584" />
+<SubTexture name="SKY M TLOOP0005" x="2200" y="0" width="533" height="584" frameX="0" frameY="0" frameWidth="533" frameHeight="584" />
+<SubTexture name="SKY M UP0000" x="587" y="723" width="540" height="614" frameX="-20" frameY="-30" frameWidth="619" frameHeight="648" />
+<SubTexture name="SKY M UP0001" x="1127" y="723" width="551" height="609" frameX="-28" frameY="-39" frameWidth="619" frameHeight="648" />
+</TextureAtlas>
